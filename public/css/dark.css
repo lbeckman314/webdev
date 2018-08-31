@@ -1,0 +1,49 @@
+body {
+    background-color: #2a2730;
+}
+
+p, h1, h2, h3, span, legend, label, dd, dt, caption, pre {
+    color: lightgrey;
+}
+
+td.footer, th, textarea {
+    color: lightgrey;
+    background-color: #2a2730;
+}
+
+input, input.submit, input.search, input.buttonEdit, input.buttonDelete {
+    background-color: #151515;
+    border: 1px solid black;
+    color: grey;
+}
+
+tr:nth-of-type(even) {
+    background-color: #474747;
+}
+
+tr:nth-of-type(odd) {
+    background-color: #151515;
+    //background-color: lavender;
+}
+
+th, td {
+    color: lightgrey;
+    border: 1px dashed grey;
+}
+
+ul {
+    color: #b7a2e1;
+}
+
+.light {
+    border: none;
+}
+
+.dark {
+    border: 1px solid #ff357a;
+}
+
+.dot {
+  color: lightgrey; 
+}
+

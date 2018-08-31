@@ -68,3 +68,36 @@ body {
   bottom: 0;
   left: 0;
   font-size: 1em; }
+
+
+button {
+  width: 1.3em;
+  height: 1.3em;
+  margin-left: 0.3em;
+  margin-right: 0.3em; }
+
+button:hover {
+  border: 1px solid #FF357A; }
+
+.light {
+  background-color: whitesmoke;
+  border: 1px solid #ff357a;
+  color: whitesmoke; }
+
+.dark {
+  background-color: #2a2730;
+  border: 1px solid snow;
+  color: #2a2730; }
+
+.dot {
+  color: black;
+}
+
+.style {
+    padding-top: 1em;
+  display: inline;
+  margin-right: 2em;
+  margin-left: 1em;
+  float: right;
+  }
+
