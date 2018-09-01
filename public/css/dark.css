@@ -6,6 +6,10 @@ p, h1, h2, h3, span, legend, label, dd, dt, caption, pre {
     color: lightgrey;
 }
 
+h1 {
+    text-decoration: underline dotted lightgrey;
+}
+
 td.footer, th, textarea {
     color: lightgrey;
     background-color: #2a2730;
